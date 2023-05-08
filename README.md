@@ -12,6 +12,12 @@ This turborepo displays example usage of jotai atoms in a shared package and inc
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 
+### Install Packages & Run(dev)
+
+Run these commands on root directory
+- yarn install
+- yarn dev
+
 ### Building packages/ui
 
 This example is setup to build `packages/ui` and output the transpiled source and compiled styles to `dist/`. This was chosen to make sharing one `tailwind.config.js` as easy as possible, and to ensure only the CSS that is used by the current application and its dependencies is generated.
