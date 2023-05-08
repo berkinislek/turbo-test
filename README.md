@@ -1,18 +1,6 @@
-# Turborepo Tailwind CSS starter
-
-This is an official starter Turborepo.
-
-## Using this example
-
-Run the following command:
-
-```sh
-npx create-turbo@latest -e with-tailwind
-```
-
 ## What's inside?
 
-This Turborepo includes the following packages/apps:
+This turborepo displays example usage of jotai atoms in a shared package and includes the following packages/apps:
 
 ### Apps and Packages
 
